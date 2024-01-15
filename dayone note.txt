@@ -1,0 +1,5 @@
+semantic : menaingful tag 
+1. <strong>  is semantic  tag but <b> is normal
+2. <em>- emphasais ...is semantic  tag but <i> is normal
+
+void tag: <img>
